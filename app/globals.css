@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-calendar .highlight {
+  background-color: greenyellow;
+  border-radius: 50%;
+  font-weight: bold;
+  color: blue;
+}
